@@ -6,7 +6,6 @@ body {
   color: #222;
 }
 
-/* Navigation */
 .navbar-brand {
   letter-spacing: 2px;
 }
@@ -15,7 +14,6 @@ body {
   margin-left: 10px;
 }
 
-/* Home Hero Section */
 .hero {
   background-color: #222;
   color: white;
@@ -32,13 +30,11 @@ body {
   margin-bottom: 20px;
 }
 
-/* Page Headers */
 .page-header {
   background-color: #0d6efd;
   color: white;
 }
 
-/* Section Headings */
 section h2 {
   font-weight: bold;
   margin-bottom: 20px;
@@ -74,7 +70,6 @@ section h2 {
   border-color: #0d6efd;
 }
 
-/* Footer */
 footer {
   margin-top: 40px;
 }
@@ -87,7 +82,6 @@ footer a:hover {
   text-decoration: underline;
 }
 
-/* Responsive Design */
 @media (max-width: 576px) {
   .hero {
     padding: 60px 15px;
